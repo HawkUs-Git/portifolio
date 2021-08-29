@@ -5,7 +5,8 @@
 .about,
 .skills,
 .hobbie,
-.projects {
+.projects,
+.hero {
   margin-bottom: 75px;
 }
 a {
@@ -14,6 +15,10 @@ a {
 #header {
   background: #2c2e3e;
   color: #f6f6f6;
+}
+
+.nav-item {
+  list-style: none;
 }
 
 .abouttitle {
@@ -143,7 +148,7 @@ a {
 
 .footer {
   background: #ee2b47;
-  width: 1440px;
+  padding: 50px;
 }
 
 .contact-p {
@@ -155,4 +160,8 @@ a {
 
   color: #ffffff;
   text-align: center;
+}
+
+.contact-p a {
+  margin-left: 10px;
 }
