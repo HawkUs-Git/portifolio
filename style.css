@@ -1,0 +1,158 @@
+* {
+  font-family: "Andada", serif;
+}
+#header,
+.about,
+.skills,
+.hobbie,
+.projects {
+  margin-bottom: 75px;
+}
+a {
+  color: inherit;
+}
+#header {
+  background: #2c2e3e;
+  color: #f6f6f6;
+}
+
+.abouttitle {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 56px;
+  text-align: center;
+
+  color: #ee2b47;
+}
+
+.abouttext {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 25px;
+  /* or 139% */
+
+  text-align: center;
+
+  color: #2c2e3e;
+}
+
+.box {
+  background: #f6f6f6;
+  border: 2px solid #ee2b47;
+  box-sizing: border-box;
+  border-radius: 15px;
+  height: 147px;
+  width: 143px;
+  box-shadow: 0px 12px 24px rgba(84, 73, 5, 0.12);
+  text-align: center;
+  padding-top: 40px;
+}
+
+.skilltitle {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 56px;
+  text-align: center;
+
+  color: #ee2b47;
+  margin-bottom: 70px;
+}
+
+.skill3 {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#hobbie-title {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 56px;
+  text-align: center;
+
+  color: #ee2b47;
+  margin-bottom: 87px;
+}
+
+.hobbie-imgage1 {
+  height: 377px;
+  width: 545px;
+  text-align: left;
+  margin-right: 127px;
+}
+
+.hobbie-text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+
+  color: #000000;
+  margin-top: 50px;
+  list-style-type: none;
+}
+
+.hobbie-text li {
+  margin-bottom: 15px;
+}
+
+.Project-title {
+  margin-bottom: 75px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 56px;
+  text-align: center;
+
+  color: #ee2b47;
+}
+
+.projecttext {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+
+  color: #000000;
+}
+
+.namehero {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 100px;
+  line-height: 56px;
+  text-align: center;
+
+  color: #ee2b47;
+}
+
+.footer-contact {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.footer {
+  background: #ee2b47;
+  width: 1440px;
+}
+
+.contact-p {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: center;
+
+  color: #ffffff;
+  text-align: center;
+}
